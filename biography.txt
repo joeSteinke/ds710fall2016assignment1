@@ -1,8 +1,32 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Joe Steinke
+
 2. Why are you interested in Data Science?
+	When I began my undergraduate studies, I knew I wanted to study computer science and mathematics.  
+	However, I did not have a good idea of what I wanted to do with the degrees upon graduating.  
+	I took a database course, and quickly learned that I enjoyed working with data.  
+	After several internships associated with data development, I landed a full-time position as a data integration analyst with a catalog retail and credit company named Colony Brands.
+	Although this is only my second semester in the program, the courses I have taken have already been benficial to my career development.
+	Outside of work, I also enjoy applying data analysis to fantasy sports.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	In my undergraduate studies, I primarily programmed in C++ and Java, but also worked with MATLAB quite a bit.
+	In the UW Data Science program, I took DS700 last semester, so I have been introduced to R.
+	In my current position, I have done some programming in C# (in SQL Server Integration Studio package tasks), and Python (in Pentaho Kettle packages).
+	Our organization uses SAS quite a bit, so I have been familiarizing myself with that as well.
+	
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	I received a second bachelors degree in applied mathematics, which took me through 2 statistics courses.  
+	I do not use statistics heavily in my current position.  
+
 5.  Do you have other experience with R or Python?
+	I was introduced to R over the summer in DS700.  I am familiar with Python, and use it (in a limited capacity) in my current position.
+
 6.  What do you hope to learn in this class?
+	I look forward to learning about R and Python, and how they can be leveraged in data analysis.
+
 7.  Is there anything else you would like to share with us?
+	One thing worth noting is that I will be out of the country from November 4-11, with limited internet access.  
+	I realize that this is not ideal for the course, but based on the Calendar, I am hoping to complete the week 9 and week 10 content ahead of time.
+	I will be sure to reach out as the date nears, as well.
